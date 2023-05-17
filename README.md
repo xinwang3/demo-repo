@@ -1,3 +1,3 @@
-# demo-repo read me
+# demo read me
 
 test read me
